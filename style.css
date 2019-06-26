@@ -1,0 +1,44 @@
+.left-panel{
+
+	border: 1px solid black;
+	padding: 10px;
+
+}
+
+.right-panel{
+
+	border: 1px solid black;
+	padding: 10px;
+}
+
+input[type = text]{
+
+	padding: 5px;
+}
+
+input[type = submit]{
+
+	padding: 5px;
+}
+
+.padding-20{
+
+	padding: 20px;
+}
+
+
+.p-btn{
+
+	padding: 5px;
+	border: 1px solid;
+	border-radius: 5px;
+	width: 35px;
+	display: inline-block;
+	background: #e7e7e7;
+	cursor: pointer;
+}
+
+.btn.btn-default{
+
+	width: 55px!important;
+}
